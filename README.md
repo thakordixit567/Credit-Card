@@ -8,7 +8,7 @@ DEMO ---->
 ---------------------
 
 
-![image]()
+![image](https://github.com/thakordixit567/Credit-Card/blob/master/demo/Screenshot%20(207).png)
 
 
 
